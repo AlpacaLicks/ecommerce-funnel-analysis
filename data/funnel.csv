@@ -1,0 +1,7 @@
+funnel_step,sessions,overall_conversion_rate_from_start,overall_drop_off_rate_from_start,step_conversion_rate,step_drop_off_rate
+session_start,2758,100.0,0.0,100.0,0.0
+view_item,571,20.7,79.3,20.7,79.3
+add_to_cart,104,3.77,96.23,18.21,81.79
+begin_checkout,56,2.03,97.97,53.85,46.15
+add_payment_info,36,1.31,98.69,64.29,35.71
+purchase,18,0.65,99.35,50.0,50.0
